@@ -703,6 +703,7 @@
     "settings.title": "SETTINGS",
     "settings.volume": "Audio volume {0}",
     "settings.soundeffects": "Sound Effects",
+    "settings.scale.auto": "Automatická",
     "settings.ambience": "Ambience",
     "settings.tribemusic": "Tribe Music",
     "settings.suggestions": "Suggestions",
